@@ -3,10 +3,9 @@ package gitTest;
 public class App {
 
 	public static void main(String[] args) {
-		// TODO ×Ô¶¯Éú³ÉµÄ·½·¨´æ¸ù
-		
-		System.out.println("Hello World");
+		// TODO è‡ªåŠ¨ç”Ÿæˆçš„æ–¹æ³•å­˜æ ¹
 
+		System.out.println("Hello World");
 	}
 
 }
